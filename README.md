@@ -11,8 +11,8 @@
 
 
 
-<!-- ABOUT THE DATASET -->
-## About The Dataset
+<!-- ABOUT-->
+## About 
 
 There are many significant datasets available for free, and It's hard to find a suitable dataset for data science beginners. I created this repository to make it easier to find data for beginners.
 ### Dataset Clustering
