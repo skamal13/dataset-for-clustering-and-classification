@@ -4,7 +4,7 @@
 <br />
 <p align="center">
 
-  <h1 align="center">Data Science : Dataset for Clustering and Classification </h1>
+  <h1 align="center">Dataset for Clustering and Classification </h1>
 
 
 </p>
